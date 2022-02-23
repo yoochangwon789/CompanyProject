@@ -17,15 +17,4 @@
         app:backgroundTint="@null"
         android:text="test"/>
 
-    <Button
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        android:layout_margin="14dp"
-        android:textColor="@color/black"
-        android:background="@drawable/shape_test"
-        app:backgroundTint="@null"
-        android:text="test"/>
-
 </androidx.constraintlayout.widget.ConstraintLayout>
